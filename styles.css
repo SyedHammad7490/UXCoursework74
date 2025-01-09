@@ -73,7 +73,7 @@ body {
 }
 
 .hero {
-    background: url('../UXCourseWork-main-2/images/gymback.jpg') no-repeat center center/cover;
+    background: url('./images/gymback.jpg') no-repeat center center/cover;
     color: #fff;
     text-align: center;
     padding: 100px 0;
@@ -98,7 +98,7 @@ body {
     padding: 2rem 0;
     background: #f9f9f9;
     text-align: center;
-    background-image: url(../Fitness2/images/hero.jpg);
+    background-image: url('./images/hero.jpg') no-repeat center center/cover;
     background-size: cover;
     background-position: center;
 
@@ -143,7 +143,7 @@ body {
 
 .products {
     padding: 2rem 0;
-    background-image: url(../Fitness2/images/ourproducts.jpg);
+    background-image: url('images/ourproducts.jpg');
     background-size: cover;
     background-position: center;
 
@@ -171,7 +171,7 @@ body {
 }
 
 .contact {
-    background-image: url(../Fitness2/images/contactus.jpg);
+    background-image: url('./images/contactus.jpg');
     background-size: cover;
     background-position: center;
     color: #fff;
